@@ -1,0 +1,332 @@
+{
+    "Characters":
+    {
+        "Lt Russel":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/745265739421843506/782908746010984458/russel.jpg",
+            "Abilities" : [
+                "Strength II",
+                "Athlete II", 
+                "Precision I",
+                "Pilot"
+            ]
+        },
+        "Cleavon":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/745265691690795049/782940231597817856/cleavon.jpg",
+            "Abilities" : [
+                "Strength II",
+                "Athlete I", 
+                "Engineer"
+            ]
+        },
+        "Brinley":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/745265691690795049/782940289060175872/brinley.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Composure I", 
+                "Scientist"
+            ]
+        },
+        "Foster":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746497941812019291/782942126728020008/foster.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Composure I", 
+                "Precision I"
+            ]
+        },
+        "Conrad":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746497941812019291/782942335956549662/clark.jpg",
+            "Abilities" : [
+                "Strength III",
+                "Athlete I"
+            ]
+        },
+        "Parker":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746497941812019291/782942479464005652/parker.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Athlete I", 
+                "Engineer"
+            ]
+        },
+        "Ned":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746497941812019291/782942576185180201/ned.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Athlete II"
+            ]
+        },
+        "Wesley":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746497941812019291/782942659404365844/wesley.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Athlete I"
+            ]
+        },
+        "Fairfax":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746497941812019291/782942723807903784/fairfax.jpg",
+            "Abilities" : [
+                "Scientist"
+            ]
+        },
+        "Chester":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746497941812019291/782942812655976478/chester.jpg",
+            "Abilities" : [
+                "Composure II"
+            ]
+        },
+        "Gary":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746497941812019291/803855871183552522/Gary.jpg",
+            "Abilities" : [
+                "Composure II"
+            ]
+        },
+        "Jorgen":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502011184349325/783149076672938024/jorgen.jpg",
+            "Abilities" : [
+                "Strength III",
+                "Athlete I", 
+                "Precision II",
+                "No English",
+                "Affinity"
+            ]
+        },
+        "Maksim":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502011184349325/783149777142677515/maksim.jpg",
+            "Abilities" : [
+                "Strength II",
+                "Athlete I", 
+                "Precision I",
+                "Broken English",
+                "Pilot"
+            ]
+        },
+        "Larson":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502011184349325/783150390245195787/lars.jpg",
+            "Abilities" : [
+                "Strength III",
+                "Composure II", 
+                "Broken English"
+            ]
+        },
+        "Pieter":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502011184349325/783150983013728266/pieter.jpg",
+            "Abilities" : [
+                "Strength II",
+                "Composure II", 
+                "Broken English"
+            ]
+        },
+        "Olsen":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502011184349325/783151263993954304/olsen.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Athlete I", 
+                "Engineer"
+            ]
+        },
+        "Henrik":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502011184349325/783151911767507014/enrik.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Composure II", 
+                "Engineer"
+            ]
+        },
+        "Munch":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502011184349325/783152445776855090/munch.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Athlete III", 
+                "Dog",
+                "Affinity"
+            ]
+        },
+        "Khloe":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502900934508585/783154202968981515/khloe.jpg",
+            "Abilities" : [
+                "Athlete I", 
+                "Composure II"
+            ]
+        },
+        "Ace":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502900934508585/783154879602491392/ace.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Athlete II", 
+                "Scientist"
+            ]
+        },
+        "Joella":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502900934508585/783155416007180288/joella.jpg",
+            "Abilities" : [
+                "Composure I",
+                "Broken English"
+            ]
+        },
+        "Endrike":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502900934508585/783155733986148402/endrike.jpg",
+            "Abilities" : [
+                "Scientist",
+                "Athlete I", 
+                "Composure I"
+            ]
+        },
+        "Charles":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502900934508585/783156134633668658/charles.jpg",
+            "Abilities" : [
+                "Strength I",
+                "Athlete I", 
+                "Composure I"
+            ]
+        },
+        "Knox":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502900934508585/783156546963374100/knox.jpg",
+            "Abilities" : [
+                "Composure I"
+            ]
+        },
+        "Simeon":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502900934508585/783157133599309834/simeon.jpg",
+            "Abilities" : [
+                "Scientist"
+            ]
+        },
+        "Vermont":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746502900934508585/803858191637020712/vermont.jpg",
+            "Abilities" : [
+                "Composure II"
+            ]
+        },
+        "Sgt Shepard":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746503149090504796/783153022926192646/shepard.jpg",
+            "Abilities" : [
+                "Strength II",
+                "Athlete II",
+                "Precision I",
+                "Pilot"
+            ]
+        },
+        "Gluggs":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746503149090504796/783153475369435176/gluggs.jpg",
+            "Abilities" : [
+                "Strength II",
+                "Athlete I",
+                "Precision I",
+                "Pilot"
+            ]
+        },
+        "Deandre":
+        {
+            "image_url" : "https://cdn.discordapp.com/attachments/746503149090504796/783153708895567893/deandre.jpg",
+            "Abilities" : [
+                "Strength II",
+                "Athlete I",
+                "Precision I",
+                "Pilot"
+            ]
+        }
+    },
+    "Entity":
+    {
+        "Description": "2 abilities per turn",
+        "Abilities" : [
+            "Assimilate",
+            "Attic Acrobat",
+            "Genetic Breach",
+            "Transform",
+            "Hidden Power",
+            "Maul",
+            "Hunters Instinct",
+            "False Mortality"
+        ],
+        "image_url" : "https://cdn.discordapp.com/attachments/826326468300242944/827937839593029632/entity.jpg"
+    },
+
+    "Information":
+    {
+        "setting" : "**DISPATCHED**\n\nIn a remote Antarctic oil outpost, a crew of Norwegians discover an unknown entity encapsulated in a block of ice. A team of researchers and necessary talent are discretely dispatched to the location. Unbeknownst to everyone there, the entity has broken out only to maul and mimic one of the crewmates. With trust deteriorating, paranoia rising, and no way to contact the outside world, who or what will end up surviving?\n\n*\"Stand back, or I'll fucking flame you... your eyes are colder than this damn snowstorm\"*",
+        "rules" : "**RULES**\n\nThis is a game of trust, meaning we only allow people to play if we know they wouldn't break the rules for their own benefit\n\n> Appear DND (Do Not Disturb) and remove statuses until the game has officially ended\n> Do not DM or do anything which would reveal a player's username (identity)\n> Do not overly disrupt the serious nature of the game, no speaking of stats in game\n> Once you have died, do not leave the voice chat. Leaving indicates someone has died\n> You are only permitted to look at the voice chat once you have died\n> Use full words, no text based abbreviations like 'lol' and 'xd'\n> Players who display the best roleplay get game priority",
+        "how-to-play" : "**Playing Guide**\n\nThere are two types of players, humans and the entity\n\nHuman win conditions : Escape by helicopter, kill the entity\n\nEntity win conditions : Escape by helicopter, killing all humans\n\nTo kill the entity, you must find a flamethrower and fuel it, to escape via helicopter, an engineer must fix the engine parts in garage to eventually place in heli, fuel must be brought to the heli, and a pilot must be present to operate the heli.\n\nThe host will guide you throughout the game, but here are basic mechanics to make the game easier to understand\n\n- The flamethrower has priority, meaning if someone with the flamethrower is attacked, the flamethrower will always win\n- All items are placed randomly, and players will be placed randomly\n- Each room has its own channel where you can talk, and its own channel where you can see what items you can interact with\n- Each player has its own channel where they can make a move\n- There is 1 move per turn, the host will indicate when they next turn is ready based on their own discretion\n\nGarage - Engineers can fix engine parts\nLab - Scientist can test if a player is the entity\nDog Shed - Munch spawns here\n\nRefer to #map",
+        "how-turns-work":"**Turn mechanism**\n\nAt the beginning of every round, a list of turn requests is created. Whenever a player calls a command for a move, like .pick Fuel for example, that action is added to the turn requests list. 15 seconds after the start of the game, a loop starts wherein, every 5 seconds, one of the turn requests is picked at random and is executed. If 5 people make their moves within the first 15 seconds, for example, a player will have 1/5 chance of having their move request be run first, and then the 4 remaining players, and any player who add their turn request later on, will be waiting in line for their own move request to run.",
+            "Images" : {
+            "empty-map" : "https://cdn.discordapp.com/attachments/746174472645771270/800666244940431390/New_Map_Dispatched1.png",
+            "map" : "https://cdn.discordapp.com/attachments/746174472645771270/800666257740529714/1597973376592.jpg",
+            "Dispatched_image" : "https://cdn.discordapp.com/attachments/828357502109352011/835278521403179008/f40fd82b885b18147d818eb6cc400838.png",
+            "setting-banner" : "https://cdn.discordapp.com/attachments/746472259517939813/800676660310441984/the_thing_banner.jpg"
+        }
+    },
+
+    "Abilities" :
+    {
+        "Assimilate" : "Cleans the body of an uncharred human body and is able to transform into that human and use all collected abilities - 3 uses",
+        "Attic Acrobat" : "The entity can enter the attic into another room - 1 use",
+        "Genetic Breach" : "Can be used on a dead non charred body, or any item the entity is interacting with, the - 1 use",
+        "Transform" : "Transforms into the entity (in order to use maul)",
+        "Hidden Power" : "As a human, the entity can win any hand to hand match ups, or break out of a rope, 1 use",
+        "Maul" : "The entity can enter a room, and maul 1 human the same turn",
+        "Hunters Instinct" : "Can detect which room is the loudest",
+        "False Mortality" : "If the human body is 'killed' by anything that isn't a flamethrower, the entity only 'appears' as DEAD, it can revert whenever the player decides",
+        "Strength": "Increases combat chances",
+        "Strength I": "Slightly increases combat chances",
+        "Strength II": "Increases combat chances. Helps in carrying objects.",
+        "Strength III": "Increases combat chances a lot",
+        "Athlete": "Increases combat chances",
+        "Athlete I": "Slightly increases combat chances",
+        "Athlete II" : "Increases combat chances",
+        "Athlete III" : "Increases combat chances a lot",
+        "Precision": "Boosts flamethrower chances",
+        "Precision I": "Slightly boosts flamethrower chances",
+        "Precision II": "Boosts flamethrower chances a lot",
+        "Composure": "Increases chance to fix engine, test humans, successfully fly the helicopter, and refill fuel from the Fuel Barrel",
+        "Composure I": "Increases chances to fix the engine, test humans, successfully fly the heli, and refill fuel from Fuel Barrel",
+        "Composure II": "Significantly increases the chances to fix the engine, test humans, successfully fly the heli, and refill fuel from Fuel Barrel",
+        "Pilot": "The Pilot is experienced in helicopter flight. They can fly the heli away safely.",
+        "Engineer": "The Engineer can repair the Engine Parts to repair the Heli and escape the Outpost.",
+        "Scientist": "Scientists can use Test items to test humans and entity alike, and tell them apart.",
+        "No English": "Norwegians and non-human animals cannot speak english to other players.",
+        "Broken English" : "Characters with Broken English can only speak in small sentences or 1 word sentences.",
+        "Affinity": "Allows Jorgen and Munch to speak discreetly together",
+        "Dog" : "The Dog is one heck of a cutie. You are a good boy."
+    },
+
+    "Items" : 
+    {
+        "FlameT" : "Can be filled up with Fuel or Fuel Barrel and can be used to flame other players. It kills humans and Entity alike.",
+        "Axe" : "Can be swung to slice through humans, but will only delay the Entity. Cannot be used to cripple humans.",
+        "Fuel": "The Fuel can be used to fuel the Helicopter so it can start up, or to fuel the Flame thrower to be able to flame other players.",
+        "Test": "The Test can be used to test players in the laboratory. It can be cleaned and become reusable in the restroom.",
+        "Mop" : "The Mop can clean items that have been genetic breached. The Mop must be cleansed in the kitchen after every use, and can break; the kitchen can also be sabotaged.",
+        "Rope" : "The Rope can be used to tie players up so that they are effectively crippled. ",
+        "EngineP" : "The Engine Parts must be repaired in Garage, and can then be used to repair the helicopter.",
+        "Fuel Barrel" : "A barrel of fuel. Contains the equivalent of two Fuels, but cannot be picked up.\n There is a chance that putting Fuel from the Fuel Barrel to a Fuel container will spill the fuel."
+    }
+}
